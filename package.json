@@ -1,0 +1,11 @@
+{
+  "name": "colorfill-js",
+  "version": "1.0.0",
+  "description": "A lightweight text fill animation library",
+  "main": "colorfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian B. Martinez",
+  "license": "MIT"
+}
