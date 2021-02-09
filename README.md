@@ -50,5 +50,5 @@ colorfilljs({
 ## Configuration
 You can configure your own colorfill at the colorfill [codepen](https://codepen.io/christianmartinez/pen/KKgyywR)
 
-Colorfill takes a maximum of 8 arguments (all mentioned in the above example). If any are left blank, it will use defaults.
+Colorfilljs takes a maximum of 8 arguments (all mentioned in the above example). If any are left blank, it will use defaults.
 
