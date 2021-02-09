@@ -1,6 +1,6 @@
 {
   "name": "colorfilljs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A text fill animation tool powered by javascript.",
   "main": "app.js",
   "scripts": {

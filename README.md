@@ -54,6 +54,12 @@ colorfilljs({
 })
 </script>
 ```
+
+Then, for example...
+
+```
+parcel index.html
+```
 ## Configuration
 You can configure your own colorfill at the colorfill [codepen](https://codepen.io/christianmartinez/pen/KKgyywR)
 
