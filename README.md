@@ -4,14 +4,14 @@ Create stunning text fill animations with the power of javascript. Use colorfill
 
 ## Installation
 
-` npm i colorfill-js --save `
+` npm i colorfill.js --save `
 
 Then...
 
 ```
-import { colorfillJs } from 'colorfill-js';
+import { colorfillJs } from 'colorfill.js';
 
-colorfillJs({
+colorfillJs ({
     color: 'default'
 })
 ```

@@ -1,0 +1,25 @@
+{
+  "name": "colorfill.js",
+  "version": "1.0.0",
+  "description": "A text fill animation library powered by javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianbmartinez/colorfill-js.git"
+  },
+  "keywords": [
+    "text-fill",
+    "animations",
+    "css-animations",
+    "js-animations"
+  ],
+  "author": "Christian B. Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianbmartinez/colorfill-js/issues"
+  },
+  "homepage": "https://github.com/christianbmartinez/colorfill-js#readme"
+}
