@@ -8,7 +8,11 @@ You could definitely use css directly in a file, however having the program do t
 
 ` npm i colorfilljs --save `
 
-Then...
+Then add your html & js...
+
+```
+<h1 class="colorfill-text"><span class="colorfill" data-content="colorfill" aria-hidden="true"></span>colorfill</h1>
+```
 
 ```
 import { colorfilljs } from 'colorfilljs';
@@ -33,6 +37,9 @@ colorfilljs('')
 Use it on any page and render entirely different fill animations
 
 ```
+
+<h1 class="colorfill-text"><span class="colorfill" data-content="colorfill" aria-hidden="true"></span>colorfill</h1>
+
 <script src="/linktoyourcolorfillfile"></script>
 <script>
 colorfilljs({
