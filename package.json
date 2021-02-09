@@ -1,14 +1,10 @@
 {
-  "name": "colorfill.js",
+  "name": "colorfilljs",
   "version": "1.0.0",
   "description": "A text fill animation library powered by javascript.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/christianbmartinez/colorfill-js.git"
   },
   "keywords": [
     "text-fill",
